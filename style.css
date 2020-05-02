@@ -1,0 +1,51 @@
+body {
+    background-color: ghostwhite;
+}
+
+.container {
+    background-color: ghostwhite;
+    font-family: "Playfair Display", Georgia, serif;
+    border-left: 30px;
+    border-right: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.text-center {
+    text-align: center;
+    color: black;
+}
+
+.header {
+    text-align: center;
+    font-size: 50px;
+    color: cornflowerblue;
+    font-weight: 300;
+    transform: scale(1.2);
+    border-bottom: 30px;
+}
+
+.form {
+    color: black;
+    background-color: gainsboro;
+    text-align: center;
+    border-radius: 30px;
+    padding-top: 20px;
+    border-top: 50px;
+}
+
+.text {
+    width: 200px;
+    border-radius: 5px
+}
+
+.btn {
+    width: 120px;
+    background: gainsboro;
+    color: black;
+}
+
+.btn:hover {
+    color: black;
+    background: cornflowerblue;
+}
