@@ -1,5 +1,5 @@
 body {
-    background: url(img/background.png);
+    background: url(img/back.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     font-family: "Playfair Display", Georgia, serif;
@@ -31,19 +31,19 @@ input {
 }
 
 div {
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 
 .btn {
     width: 400px;
     height: 35px;
     border-radius: 30px;
-    background-color: #111111;
+    background-color: darkslategrey;
     color: aliceblue;
 }
 
 .btn:hover {
-    color: black;
+    color: darkslategrey;
     background-color: aliceblue;
 }
 
